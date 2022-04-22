@@ -458,7 +458,7 @@
 
 #### Q61. What is a tuple?
 
-- [ ] A data structure that has a specific number and sequence of elements
+- [x] A data structure that has a specific number and sequence of elements
 - [ ] An object to store multiple variables of the same type in an array data structure
 - [ ] A group of classes designed specifically for grouping together objects and performing tasks on them
 - [ ] An array whose elements are jagged
