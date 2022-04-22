@@ -151,6 +151,12 @@
 
 #### Q22. Which is NOT true about lambda statements?
 
+- [ ] A statement lambda cannot return a value. <= Correct
+- [ ] If a statement lambda has a return value, it has to use a return statement.
+- [x] A statement lambda requires using curly braces.
+- [ ] A statement lambda can have more than one statement.
+
+#### Q fix me Which  sentence about lambda statements is not true?
 - [x] A statement lambda cannot return a value. <= Correct
 - [ ] If a statement lambda has a return value, it has to use a return statement.
 - [ ] A statement lambda requires using curly braces.
